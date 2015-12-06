@@ -8,8 +8,7 @@ Merge your Instantbird logs to your Pidgin logs so you can use Pidgin to search 
 
 ## Installation
 
- - Unpack zip file
- - In config.json, adjust paths to your log directories.
+ - In config.my.json, adjust paths to your log directories.
 
 ## Usage
 
